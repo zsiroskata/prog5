@@ -44,7 +44,11 @@ while (ciklus)
             nev = Console.ReadLine();
             menhely.KeresNevAlapjan(nev);
             break;
+
          case 6:
+            break;
+
+         case 7:
             break;
 
 
